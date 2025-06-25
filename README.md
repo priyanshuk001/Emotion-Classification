@@ -1,7 +1,3 @@
-Here's a revised and personalized version of your README to reflect your ownership, coding style, and deployment context more clearly, while preserving technical accuracy and structure.
-
----
-
 # 🗣️ Speech Emotion Recognition using Deep Learning
 
 ## 📌 Objective
